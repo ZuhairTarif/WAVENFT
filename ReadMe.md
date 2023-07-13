@@ -4,8 +4,6 @@
 
 ![https://github.com/ZuhairTarif/WAVENFT/blob/main/Wavenft.png?raw=true](https://github.com/ZuhairTarif/WAVENFT/blob/main/Wavenft.png?raw=true)
 
-                                                                         Home Page
-
 ## **Instructions**
 
 To get started, follow the steps below:
